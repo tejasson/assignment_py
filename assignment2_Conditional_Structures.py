@@ -1,3 +1,16 @@
+'''Conditional Structures
+The marks obtained by a student in 3 different subjects are input by the
+user. Python program should calculate the average marks obtained in 3
+subjects and display the grade. The student gets a grade as per the
+following rules:
+Average Grade
+90-100 O
+80-89 A
+70-79 B
+60-69 C
+40-59 D
+0-39  F'''
+
 mark1=int(input("sub1(out of 100): "))
 mark2=int(input("sub2(out of 100): "))
 mark3=int(input("sub3(out of 100): "))
