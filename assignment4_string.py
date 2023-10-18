@@ -1,3 +1,12 @@
+'''String
+Write a python program that accepts a string to setup a password with
+following requirements:
+ The password must be at least eight characters long
+ It must contain at least one uppercase letter
+ It must contain at least one lowercase letter
+ It must contain at least one numeric digit
+The program checks the validity of password.'''
+
 while(True):
 	pswrd = input("enter password: ")
 	
